@@ -1,0 +1,158 @@
+$         **/**  ATOMIC WEIGHTS OF THE ELEMENTS 2017  **/**
+$
+$ These tables are based on the 2015 table with changes for the values of 
+$ aluminium, argon, cobalt, gold, holmium, iridium, manganese, niobium, 
+$ praseodymium, protactinium, rhodium, terbium, thulium and yttrium. 
+$ See report 5 June 2018. http://www.qmul.ac.uk/sbcs/iupac/AtWt/
+$
+$ WorldWideWeb version of atomic weight data originally prepared by G.P. Moss, 
+$ from a file provided by D. R. Lide. Previous values may be consulted from 
+$ the 1993 table, the 1995 table, the 1997 table, the 1999 table, the 2001 
+$ table, the 2005 table, the 2007 table, the 2009 table, the 2011 table, the 
+$ 2013 table or the 2015 table.
+$
+$ A number in parentheses indicates the uncertainty in the last digit of the 
+$ atomic weight.
+$
+$ --------------------------------------------------------------------------
+$ [1] Geological specimens are known in which the element has an isotopic 
+$     composition outside the limits for normal material. The difference 
+$     between the atomic weight of the element in such specimens and that 
+$     given in the Table may exceed the stated uncertainty.
+$ [2] Range in isotopic composition of normal terrestrial material prevents 
+$     a more precise value being given; the tabulated value should be 
+$     applicable to any normal material.
+$ [3] Modified isotopic compositions may be found in commercially available 
+$     material because it has been subject to an undisclosed or inadvertant 
+$     isotopic fractionation. Substantial deviations in atomic weight of the 
+$     element from that given in the Table can occur.
+$ [4] Radioactive element has no stable nuclides. The value enclosed in
+$     brackets, indicates the mass number of the longest-lived isotope of the 
+$     element. However three such elements (Th, Pa, and U) do have a 
+$     characteristic terrestrial isotopic composition, and for these an 
+$     atomic weight is tabulated.
+$ [5] The standard atomic weights of twelve elements having two or more stable 
+$     isotopes have variability of atomic-weight values in natural terrestrial 
+$     materials. These are given in table 1 as a separate file. 
+$ --------------------------------------------------------------------------
+$
+$ Table 2. List of Elements in Atomic Number Order.
+$ AtNo Symbol Name AtWt Notes
+1 H Hydrogen 1.008 3,5
+2 He Helium 4.002602(2) 1,2
+3 Li Lithium 6.94 3,5
+4 Be Beryllium 9.0121831(5)
+5 B Boron 10.81 3,5
+6 C Carbon 12.011 5
+7 N Nitrogen 14.007 5
+8 O Oxygen 15.999 5
+9 F Fluorine 18.998403163(6)
+10 Ne Neon 20.1797(6) 1,3
+11 Na Sodium 22.98976928(2)    
+12 Mg Magnesium 24.305 5
+13 Al Aluminium 26.9815384(3)
+14 Si Silicon 28.085 5
+15 P Phosphorus 30.973761998(5)
+16 S Sulfur 32.06 5
+17 Cl Chlorine 35.45 3,5
+18 Ar Argon 39.948(1) 1,2,5
+19 K Potassium 39.0983(1) 
+20 Ca Calcium 40.078(4) 
+21 Sc Scandium 44.955908(5)
+22 Ti Titanium 47.867(1)
+23 V Vanadium 50.9415(1)
+24 Cr Chromium 51.9961(6)
+25 Mn Manganese 54.938043(2)
+26 Fe Iron 55.845(2)
+27 Co Cobalt 58.933194(3)
+28 Ni Nickel 58.6934(4) 2
+29 Cu Copper 63.546(3) 2
+30 Zn Zinc 65.38(2) 2
+31 Ga Gallium 69.723(1)
+32 Ge Germanium 72.630(8)
+33 As Arsenic 74.921595(6)
+34 Se Selenium 78.971(8)
+35 Br Bromine 79.904 5
+36 Kr Krypton 83.798(2) 1,3
+37 Rb Rubidium 85.4678(3) 1
+38 Sr Strontium 87.62(1) 1,2
+39 Y Yttrium 88.90584(1)
+40 Zr Zirconium 91.224(2) 1
+41 Nb Niobium 92.90637(1)
+42 Mo Molybdenum 95.95(1) 1
+43 Tc Technetium [97] 4
+44 Ru Ruthenium 101.07(2) 1
+45 Rh Rhodium 102.90549(2)
+46 Pd Palladium 106.42(1) 1
+47 Ag Silver 107.8682(2) 1
+48 Cd Cadmium 112.414(4) 1
+49 In Indium 114.818(1)
+50 Sn Tin 118.710(7) 1
+51 Sb Antimony 121.760(1) 1
+52 Te Tellurium 127.60(3) 1
+53 I Iodine 126.90447(3)
+54 Xe Xenon 131.293(6) 1,3
+55 Cs Caesium 132.90545196(6)
+56 Ba Barium 137.327(7)
+57 La Lanthanum 138.90547(7) 1
+58 Ce Cerium 140.116(1) 1
+59 Pr Praseodymium 140.90766(1)
+60 Nd Neodymium 144.242(3) 1
+61 Pm Promethium [145] 
+62 Sm Samarium 150.36(2) 1
+63 Eu Europium 151.964(1) 1
+64 Gd Gadolinium 157.25(3) 1
+65 Tb Terbium 158.925354(8)
+66 Dy Dysprosium 162.500(1) 1
+67 Ho Holmium 164.930328(7)
+68 Er Erbium 167.259(3) 1
+69 Tm Thulium 168.934218(6)
+70 Yb Ytterbium 173.045(10) 1
+71 Lu Lutetium 174.9668(1) 1
+72 Hf Hafnium 178.49(2)
+73 Ta Tantalum 180.94788(2)
+74 W Tungsten 183.84(1)
+75 Re Rhenium 186.207(1)
+76 Os Osmium 190.23(3) 1
+77 Ir Iridium 192.217(2)
+78 Pt Platinum 195.084(9)
+79 Au Gold 196.966570(4)
+80 Hg Mercury 200.592(3)
+81 Tl Thallium 204.38 5
+82 Pb Lead 207.2(1) 1,2
+83 Bi Bismuth 208.98040(1)
+84 Po Polonium [209] 4
+85 At Astatine [210] 4
+86 Rn Radon [222] 4
+87 Fr Francium [223] 4
+88 Ra Radium [226] 4
+89 Ac Actinium [227] 4
+90 Th Thorium 232.0377(4) 1,4
+91 Pa Protactinium 231.03588(1) 4
+92 U Uranium 238.02891(3) 1,3,4
+93 Np Neptunium [237] 4
+94 Pu Plutonium [244] 4
+95 Am Americium [243] 4
+96 Cm Curium [247] 4
+97 Bk Berkelium [247] 4
+98 Cf Californium [251] 4
+99 Es Einsteinium [252] 4
+100 Fm Fermium [257] 4
+101 Md Mendelevium [258] 4
+102 No Nobelium [259] 4
+103 Lr Lawrencium [262] 4
+104 Rf Rutherfordium [267] 4
+105 Db Dubnium [270] 4
+106 Sg Seaborgium [269] 4
+107 Bh Bohrium [270] 4
+108 Hs Hassium [270] 4
+109 Mt Meitnerium [278] 4
+110 Ds Darmstadtium [281] 4
+111 Rg Roentgenium [281] 4
+112 Cn Copernicium [285] 4
+113 Nh Nihonium [286] 4
+114 Fl Flerovium [289] 4
+115 Mc Moscovium [289] 4
+116 Lv Livermorium [293] 4
+117 Ts Tennessine [293] 4
+118 Og Oganesson [294] 4

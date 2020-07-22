@@ -1,0 +1,7 @@
+$         **/**  ATOMIC WEIGHTS OF THE ELEMENTS 2017  **/**
+$ References used in the main file "MolarWeight.txt"
+1: Geological specimens are known in which the element has an isotopic composition outside the limits for normal material. The difference between the atomic weight of the element in such specimens and that given in the Table may exceed the stated uncertainty.
+2: Range in isotopic composition of normal terrestrial material prevents a more precise value being given; the tabulated value should be applicable to any normal material.
+3: Modified isotopic compositions may be found in commercially available material because it has been subject to an undisclosed or inadvertant isotopic fractionation. Substantial deviations in atomic weight of the element from that given in the Table can occur.
+4: Radioactive element has no stable nuclides. The value enclosed in brackets, indicates the mass number of the longest-lived isotope of the element. However three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and for these an atomic weight is tabulated.
+5: The standard atomic weights of twelve elements having two or more stable isotopes have variability of atomic-weight values in natural terrestrial materials. These are given in table 1 as a separate file. 

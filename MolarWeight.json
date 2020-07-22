@@ -1,0 +1,933 @@
+{
+    "H": {
+        "AtNo": "1",
+        "Symbol": "H",
+        "Name": "Hydrogen",
+        "AtWt": 1.008,
+        "RefNo": "3,5",
+        "Minimum": "1.00784",
+        "Maximum": "1.00811"
+    },
+    "He": {
+        "AtNo": "2",
+        "Symbol": "He",
+        "Name": "Helium",
+        "AtWt": 4.002602,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "1,2"
+    },
+    "Li": {
+        "AtNo": "3",
+        "Symbol": "Li",
+        "Name": "Lithium",
+        "AtWt": 6.94,
+        "RefNo": "3,5",
+        "Minimum": "6.938",
+        "Maximum": "6.997"
+    },
+    "Be": {
+        "AtNo": "4",
+        "Symbol": "Be",
+        "Name": "Beryllium",
+        "AtWt": 9.0121831,
+        "AtWtUncertainty": 5.0,
+        "RefNo": "-"
+    },
+    "B": {
+        "AtNo": "5",
+        "Symbol": "B",
+        "Name": "Boron",
+        "AtWt": 10.81,
+        "RefNo": "3,5",
+        "Minimum": "10.806",
+        "Maximum": "10.821"
+    },
+    "C": {
+        "AtNo": "6",
+        "Symbol": "C",
+        "Name": "Carbon",
+        "AtWt": 12.011,
+        "RefNo": "5",
+        "Minimum": "12.0096",
+        "Maximum": "12.0116"
+    },
+    "N": {
+        "AtNo": "7",
+        "Symbol": "N",
+        "Name": "Nitrogen",
+        "AtWt": 14.007,
+        "RefNo": "5",
+        "Minimum": "14.00643",
+        "Maximum": "14.00728"
+    },
+    "O": {
+        "AtNo": "8",
+        "Symbol": "O",
+        "Name": "Oxygen",
+        "AtWt": 15.999,
+        "RefNo": "5",
+        "Minimum": "15.99903",
+        "Maximum": "15.99977"
+    },
+    "F": {
+        "AtNo": "9",
+        "Symbol": "F",
+        "Name": "Fluorine",
+        "AtWt": 18.998403163,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "-"
+    },
+    "Ne": {
+        "AtNo": "10",
+        "Symbol": "Ne",
+        "Name": "Neon",
+        "AtWt": 20.1797,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "1,3"
+    },
+    "Na": {
+        "AtNo": "11",
+        "Symbol": "Na",
+        "Name": "Sodium",
+        "AtWt": 22.98976928,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "Mg": {
+        "AtNo": "12",
+        "Symbol": "Mg",
+        "Name": "Magnesium",
+        "AtWt": 24.305,
+        "RefNo": "5",
+        "Minimum": "24.304",
+        "Maximum": "24.307"
+    },
+    "Al": {
+        "AtNo": "13",
+        "Symbol": "Al",
+        "Name": "Aluminium",
+        "AtWt": 26.9815384,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "-"
+    },
+    "Si": {
+        "AtNo": "14",
+        "Symbol": "Si",
+        "Name": "Silicon",
+        "AtWt": 28.085,
+        "RefNo": "5",
+        "Minimum": "28.084",
+        "Maximum": "28.086"
+    },
+    "P": {
+        "AtNo": "15",
+        "Symbol": "P",
+        "Name": "Phosphorus",
+        "AtWt": 30.973761998,
+        "AtWtUncertainty": 5.0,
+        "RefNo": "-"
+    },
+    "S": {
+        "AtNo": "16",
+        "Symbol": "S",
+        "Name": "Sulfur",
+        "AtWt": 32.06,
+        "RefNo": "5",
+        "Minimum": "32.059",
+        "Maximum": "32.076"
+    },
+    "Cl": {
+        "AtNo": "17",
+        "Symbol": "Cl",
+        "Name": "Chlorine",
+        "AtWt": 35.45,
+        "RefNo": "3,5",
+        "Minimum": "35.446",
+        "Maximum": "35.457"
+    },
+    "Ar": {
+        "AtNo": "18",
+        "Symbol": "Ar",
+        "Name": "Argon",
+        "AtWt": 39.948,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1,2,5",
+        "Minimum": "39.792",
+        "Maximum": "39.963"
+    },
+    "K": {
+        "AtNo": "19",
+        "Symbol": "K",
+        "Name": "Potassium",
+        "AtWt": 39.0983,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Ca": {
+        "AtNo": "20",
+        "Symbol": "Ca",
+        "Name": "Calcium",
+        "AtWt": 40.078,
+        "AtWtUncertainty": 4.0,
+        "RefNo": "-"
+    },
+    "Sc": {
+        "AtNo": "21",
+        "Symbol": "Sc",
+        "Name": "Scandium",
+        "AtWt": 44.955908,
+        "AtWtUncertainty": 5.0,
+        "RefNo": "-"
+    },
+    "Ti": {
+        "AtNo": "22",
+        "Symbol": "Ti",
+        "Name": "Titanium",
+        "AtWt": 47.867,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "V": {
+        "AtNo": "23",
+        "Symbol": "V",
+        "Name": "Vanadium",
+        "AtWt": 50.9415,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Cr": {
+        "AtNo": "24",
+        "Symbol": "Cr",
+        "Name": "Chromium",
+        "AtWt": 51.9961,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "-"
+    },
+    "Mn": {
+        "AtNo": "25",
+        "Symbol": "Mn",
+        "Name": "Manganese",
+        "AtWt": 54.938043,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "Fe": {
+        "AtNo": "26",
+        "Symbol": "Fe",
+        "Name": "Iron",
+        "AtWt": 55.845,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "Co": {
+        "AtNo": "27",
+        "Symbol": "Co",
+        "Name": "Cobalt",
+        "AtWt": 58.933194,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "-"
+    },
+    "Ni": {
+        "AtNo": "28",
+        "Symbol": "Ni",
+        "Name": "Nickel",
+        "AtWt": 58.6934,
+        "AtWtUncertainty": 4.0,
+        "RefNo": "2"
+    },
+    "Cu": {
+        "AtNo": "29",
+        "Symbol": "Cu",
+        "Name": "Copper",
+        "AtWt": 63.546,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "2"
+    },
+    "Zn": {
+        "AtNo": "30",
+        "Symbol": "Zn",
+        "Name": "Zinc",
+        "AtWt": 65.38,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "2"
+    },
+    "Ga": {
+        "AtNo": "31",
+        "Symbol": "Ga",
+        "Name": "Gallium",
+        "AtWt": 69.723,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Ge": {
+        "AtNo": "32",
+        "Symbol": "Ge",
+        "Name": "Germanium",
+        "AtWt": 72.63,
+        "AtWtUncertainty": 8.0,
+        "RefNo": "-"
+    },
+    "As": {
+        "AtNo": "33",
+        "Symbol": "As",
+        "Name": "Arsenic",
+        "AtWt": 74.921595,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "-"
+    },
+    "Se": {
+        "AtNo": "34",
+        "Symbol": "Se",
+        "Name": "Selenium",
+        "AtWt": 78.971,
+        "AtWtUncertainty": 8.0,
+        "RefNo": "-"
+    },
+    "Br": {
+        "AtNo": "35",
+        "Symbol": "Br",
+        "Name": "Bromine",
+        "AtWt": 79.904,
+        "RefNo": "5",
+        "Minimum": "79.901",
+        "Maximum": "79.907"
+    },
+    "Kr": {
+        "AtNo": "36",
+        "Symbol": "Kr",
+        "Name": "Krypton",
+        "AtWt": 83.798,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "1,3"
+    },
+    "Rb": {
+        "AtNo": "37",
+        "Symbol": "Rb",
+        "Name": "Rubidium",
+        "AtWt": 85.4678,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1"
+    },
+    "Sr": {
+        "AtNo": "38",
+        "Symbol": "Sr",
+        "Name": "Strontium",
+        "AtWt": 87.62,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1,2"
+    },
+    "Y": {
+        "AtNo": "39",
+        "Symbol": "Y",
+        "Name": "Yttrium",
+        "AtWt": 88.90584,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Zr": {
+        "AtNo": "40",
+        "Symbol": "Zr",
+        "Name": "Zirconium",
+        "AtWt": 91.224,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "1"
+    },
+    "Nb": {
+        "AtNo": "41",
+        "Symbol": "Nb",
+        "Name": "Niobium",
+        "AtWt": 92.90637,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Mo": {
+        "AtNo": "42",
+        "Symbol": "Mo",
+        "Name": "Molybdenum",
+        "AtWt": 95.95,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Tc": {
+        "AtNo": "43",
+        "Symbol": "Tc",
+        "Name": "Technetium",
+        "AtWt": 97.0,
+        "RefNo": "4"
+    },
+    "Ru": {
+        "AtNo": "44",
+        "Symbol": "Ru",
+        "Name": "Ruthenium",
+        "AtWt": 101.07,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "1"
+    },
+    "Rh": {
+        "AtNo": "45",
+        "Symbol": "Rh",
+        "Name": "Rhodium",
+        "AtWt": 102.90549,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "Pd": {
+        "AtNo": "46",
+        "Symbol": "Pd",
+        "Name": "Palladium",
+        "AtWt": 106.42,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Ag": {
+        "AtNo": "47",
+        "Symbol": "Ag",
+        "Name": "Silver",
+        "AtWt": 107.8682,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "1"
+    },
+    "Cd": {
+        "AtNo": "48",
+        "Symbol": "Cd",
+        "Name": "Cadmium",
+        "AtWt": 112.414,
+        "AtWtUncertainty": 4.0,
+        "RefNo": "1"
+    },
+    "In": {
+        "AtNo": "49",
+        "Symbol": "In",
+        "Name": "Indium",
+        "AtWt": 114.818,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Sn": {
+        "AtNo": "50",
+        "Symbol": "Sn",
+        "Name": "Tin",
+        "AtWt": 118.71,
+        "AtWtUncertainty": 7.0,
+        "RefNo": "1"
+    },
+    "Sb": {
+        "AtNo": "51",
+        "Symbol": "Sb",
+        "Name": "Antimony",
+        "AtWt": 121.76,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Te": {
+        "AtNo": "52",
+        "Symbol": "Te",
+        "Name": "Tellurium",
+        "AtWt": 127.6,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1"
+    },
+    "I": {
+        "AtNo": "53",
+        "Symbol": "I",
+        "Name": "Iodine",
+        "AtWt": 126.90447,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "-"
+    },
+    "Xe": {
+        "AtNo": "54",
+        "Symbol": "Xe",
+        "Name": "Xenon",
+        "AtWt": 131.293,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "1,3"
+    },
+    "Cs": {
+        "AtNo": "55",
+        "Symbol": "Cs",
+        "Name": "Caesium",
+        "AtWt": 132.90545196,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "-"
+    },
+    "Ba": {
+        "AtNo": "56",
+        "Symbol": "Ba",
+        "Name": "Barium",
+        "AtWt": 137.327,
+        "AtWtUncertainty": 7.0,
+        "RefNo": "-"
+    },
+    "La": {
+        "AtNo": "57",
+        "Symbol": "La",
+        "Name": "Lanthanum",
+        "AtWt": 138.90547,
+        "AtWtUncertainty": 7.0,
+        "RefNo": "1"
+    },
+    "Ce": {
+        "AtNo": "58",
+        "Symbol": "Ce",
+        "Name": "Cerium",
+        "AtWt": 140.116,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Pr": {
+        "AtNo": "59",
+        "Symbol": "Pr",
+        "Name": "Praseodymium",
+        "AtWt": 140.90766,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Nd": {
+        "AtNo": "60",
+        "Symbol": "Nd",
+        "Name": "Neodymium",
+        "AtWt": 144.242,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1"
+    },
+    "Pm": {
+        "AtNo": "61",
+        "Symbol": "Pm",
+        "Name": "Promethium",
+        "AtWt": 145.0,
+        "RefNo": "-"
+    },
+    "Sm": {
+        "AtNo": "62",
+        "Symbol": "Sm",
+        "Name": "Samarium",
+        "AtWt": 150.36,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "1"
+    },
+    "Eu": {
+        "AtNo": "63",
+        "Symbol": "Eu",
+        "Name": "Europium",
+        "AtWt": 151.964,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Gd": {
+        "AtNo": "64",
+        "Symbol": "Gd",
+        "Name": "Gadolinium",
+        "AtWt": 157.25,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1"
+    },
+    "Tb": {
+        "AtNo": "65",
+        "Symbol": "Tb",
+        "Name": "Terbium",
+        "AtWt": 158.925354,
+        "AtWtUncertainty": 8.0,
+        "RefNo": "-"
+    },
+    "Dy": {
+        "AtNo": "66",
+        "Symbol": "Dy",
+        "Name": "Dysprosium",
+        "AtWt": 162.5,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Ho": {
+        "AtNo": "67",
+        "Symbol": "Ho",
+        "Name": "Holmium",
+        "AtWt": 164.930328,
+        "AtWtUncertainty": 7.0,
+        "RefNo": "-"
+    },
+    "Er": {
+        "AtNo": "68",
+        "Symbol": "Er",
+        "Name": "Erbium",
+        "AtWt": 167.259,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1"
+    },
+    "Tm": {
+        "AtNo": "69",
+        "Symbol": "Tm",
+        "Name": "Thulium",
+        "AtWt": 168.934218,
+        "AtWtUncertainty": 6.0,
+        "RefNo": "-"
+    },
+    "Yb": {
+        "AtNo": "70",
+        "Symbol": "Yb",
+        "Name": "Ytterbium",
+        "AtWt": 173.045,
+        "AtWtUncertainty": 10.0,
+        "RefNo": "1"
+    },
+    "Lu": {
+        "AtNo": "71",
+        "Symbol": "Lu",
+        "Name": "Lutetium",
+        "AtWt": 174.9668,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1"
+    },
+    "Hf": {
+        "AtNo": "72",
+        "Symbol": "Hf",
+        "Name": "Hafnium",
+        "AtWt": 178.49,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "Ta": {
+        "AtNo": "73",
+        "Symbol": "Ta",
+        "Name": "Tantalum",
+        "AtWt": 180.94788,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "W": {
+        "AtNo": "74",
+        "Symbol": "W",
+        "Name": "Tungsten",
+        "AtWt": 183.84,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Re": {
+        "AtNo": "75",
+        "Symbol": "Re",
+        "Name": "Rhenium",
+        "AtWt": 186.207,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Os": {
+        "AtNo": "76",
+        "Symbol": "Os",
+        "Name": "Osmium",
+        "AtWt": 190.23,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1"
+    },
+    "Ir": {
+        "AtNo": "77",
+        "Symbol": "Ir",
+        "Name": "Iridium",
+        "AtWt": 192.217,
+        "AtWtUncertainty": 2.0,
+        "RefNo": "-"
+    },
+    "Pt": {
+        "AtNo": "78",
+        "Symbol": "Pt",
+        "Name": "Platinum",
+        "AtWt": 195.084,
+        "AtWtUncertainty": 9.0,
+        "RefNo": "-"
+    },
+    "Au": {
+        "AtNo": "79",
+        "Symbol": "Au",
+        "Name": "Gold",
+        "AtWt": 196.96657,
+        "AtWtUncertainty": 4.0,
+        "RefNo": "-"
+    },
+    "Hg": {
+        "AtNo": "80",
+        "Symbol": "Hg",
+        "Name": "Mercury",
+        "AtWt": 200.592,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "-"
+    },
+    "Tl": {
+        "AtNo": "81",
+        "Symbol": "Tl",
+        "Name": "Thallium",
+        "AtWt": 204.38,
+        "RefNo": "5",
+        "Minimum": "204.382",
+        "Maximum": "204.385"
+    },
+    "Pb": {
+        "AtNo": "82",
+        "Symbol": "Pb",
+        "Name": "Lead",
+        "AtWt": 207.2,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "1,2"
+    },
+    "Bi": {
+        "AtNo": "83",
+        "Symbol": "Bi",
+        "Name": "Bismuth",
+        "AtWt": 208.9804,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "-"
+    },
+    "Po": {
+        "AtNo": "84",
+        "Symbol": "Po",
+        "Name": "Polonium",
+        "AtWt": 209.0,
+        "RefNo": "4"
+    },
+    "At": {
+        "AtNo": "85",
+        "Symbol": "At",
+        "Name": "Astatine",
+        "AtWt": 210.0,
+        "RefNo": "4"
+    },
+    "Rn": {
+        "AtNo": "86",
+        "Symbol": "Rn",
+        "Name": "Radon",
+        "AtWt": 222.0,
+        "RefNo": "4"
+    },
+    "Fr": {
+        "AtNo": "87",
+        "Symbol": "Fr",
+        "Name": "Francium",
+        "AtWt": 223.0,
+        "RefNo": "4"
+    },
+    "Ra": {
+        "AtNo": "88",
+        "Symbol": "Ra",
+        "Name": "Radium",
+        "AtWt": 226.0,
+        "RefNo": "4"
+    },
+    "Ac": {
+        "AtNo": "89",
+        "Symbol": "Ac",
+        "Name": "Actinium",
+        "AtWt": 227.0,
+        "RefNo": "4"
+    },
+    "Th": {
+        "AtNo": "90",
+        "Symbol": "Th",
+        "Name": "Thorium",
+        "AtWt": 232.0377,
+        "AtWtUncertainty": 4.0,
+        "RefNo": "1,4"
+    },
+    "Pa": {
+        "AtNo": "91",
+        "Symbol": "Pa",
+        "Name": "Protactinium",
+        "AtWt": 231.03588,
+        "AtWtUncertainty": 1.0,
+        "RefNo": "4"
+    },
+    "U": {
+        "AtNo": "92",
+        "Symbol": "U",
+        "Name": "Uranium",
+        "AtWt": 238.02891,
+        "AtWtUncertainty": 3.0,
+        "RefNo": "1,3,4"
+    },
+    "Np": {
+        "AtNo": "93",
+        "Symbol": "Np",
+        "Name": "Neptunium",
+        "AtWt": 237.0,
+        "RefNo": "4"
+    },
+    "Pu": {
+        "AtNo": "94",
+        "Symbol": "Pu",
+        "Name": "Plutonium",
+        "AtWt": 244.0,
+        "RefNo": "4"
+    },
+    "Am": {
+        "AtNo": "95",
+        "Symbol": "Am",
+        "Name": "Americium",
+        "AtWt": 243.0,
+        "RefNo": "4"
+    },
+    "Cm": {
+        "AtNo": "96",
+        "Symbol": "Cm",
+        "Name": "Curium",
+        "AtWt": 247.0,
+        "RefNo": "4"
+    },
+    "Bk": {
+        "AtNo": "97",
+        "Symbol": "Bk",
+        "Name": "Berkelium",
+        "AtWt": 247.0,
+        "RefNo": "4"
+    },
+    "Cf": {
+        "AtNo": "98",
+        "Symbol": "Cf",
+        "Name": "Californium",
+        "AtWt": 251.0,
+        "RefNo": "4"
+    },
+    "Es": {
+        "AtNo": "99",
+        "Symbol": "Es",
+        "Name": "Einsteinium",
+        "AtWt": 252.0,
+        "RefNo": "4"
+    },
+    "Fm": {
+        "AtNo": "100",
+        "Symbol": "Fm",
+        "Name": "Fermium",
+        "AtWt": 257.0,
+        "RefNo": "4"
+    },
+    "Md": {
+        "AtNo": "101",
+        "Symbol": "Md",
+        "Name": "Mendelevium",
+        "AtWt": 258.0,
+        "RefNo": "4"
+    },
+    "No": {
+        "AtNo": "102",
+        "Symbol": "No",
+        "Name": "Nobelium",
+        "AtWt": 259.0,
+        "RefNo": "4"
+    },
+    "Lr": {
+        "AtNo": "103",
+        "Symbol": "Lr",
+        "Name": "Lawrencium",
+        "AtWt": 262.0,
+        "RefNo": "4"
+    },
+    "Rf": {
+        "AtNo": "104",
+        "Symbol": "Rf",
+        "Name": "Rutherfordium",
+        "AtWt": 267.0,
+        "RefNo": "4"
+    },
+    "Db": {
+        "AtNo": "105",
+        "Symbol": "Db",
+        "Name": "Dubnium",
+        "AtWt": 270.0,
+        "RefNo": "4"
+    },
+    "Sg": {
+        "AtNo": "106",
+        "Symbol": "Sg",
+        "Name": "Seaborgium",
+        "AtWt": 269.0,
+        "RefNo": "4"
+    },
+    "Bh": {
+        "AtNo": "107",
+        "Symbol": "Bh",
+        "Name": "Bohrium",
+        "AtWt": 270.0,
+        "RefNo": "4"
+    },
+    "Hs": {
+        "AtNo": "108",
+        "Symbol": "Hs",
+        "Name": "Hassium",
+        "AtWt": 270.0,
+        "RefNo": "4"
+    },
+    "Mt": {
+        "AtNo": "109",
+        "Symbol": "Mt",
+        "Name": "Meitnerium",
+        "AtWt": 278.0,
+        "RefNo": "4"
+    },
+    "Ds": {
+        "AtNo": "110",
+        "Symbol": "Ds",
+        "Name": "Darmstadtium",
+        "AtWt": 281.0,
+        "RefNo": "4"
+    },
+    "Rg": {
+        "AtNo": "111",
+        "Symbol": "Rg",
+        "Name": "Roentgenium",
+        "AtWt": 281.0,
+        "RefNo": "4"
+    },
+    "Cn": {
+        "AtNo": "112",
+        "Symbol": "Cn",
+        "Name": "Copernicium",
+        "AtWt": 285.0,
+        "RefNo": "4"
+    },
+    "Nh": {
+        "AtNo": "113",
+        "Symbol": "Nh",
+        "Name": "Nihonium",
+        "AtWt": 286.0,
+        "RefNo": "4"
+    },
+    "Fl": {
+        "AtNo": "114",
+        "Symbol": "Fl",
+        "Name": "Flerovium",
+        "AtWt": 289.0,
+        "RefNo": "4"
+    },
+    "Mc": {
+        "AtNo": "115",
+        "Symbol": "Mc",
+        "Name": "Moscovium",
+        "AtWt": 289.0,
+        "RefNo": "4"
+    },
+    "Lv": {
+        "AtNo": "116",
+        "Symbol": "Lv",
+        "Name": "Livermorium",
+        "AtWt": 293.0,
+        "RefNo": "4"
+    },
+    "Ts": {
+        "AtNo": "117",
+        "Symbol": "Ts",
+        "Name": "Tennessine",
+        "AtWt": 293.0,
+        "RefNo": "4"
+    },
+    "Og": {
+        "AtNo": "118",
+        "Symbol": "Og",
+        "Name": "Oganesson",
+        "AtWt": 294.0,
+        "RefNo": "4"
+    },
+    "References": {
+        "1": "1: Geological specimens are known in which the element has an isotopic composition outside the limits for normal material. The difference between the atomic weight of the element in such specimens and that given in the Table may exceed the stated uncertainty.\n",
+        "2": "2: Range in isotopic composition of normal terrestrial material prevents a more precise value being given; the tabulated value should be applicable to any normal material.\n",
+        "3": "3: Modified isotopic compositions may be found in commercially available material because it has been subject to an undisclosed or inadvertant isotopic fractionation. Substantial deviations in atomic weight of the element from that given in the Table can occur.\n",
+        "4": "4: Radioactive element has no stable nuclides. The value enclosed in brackets, indicates the mass number of the longest-lived isotope of the element. However three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and for these an atomic weight is tabulated.\n",
+        "5": "5: The standard atomic weights of twelve elements having two or more stable isotopes have variability of atomic-weight values in natural terrestrial materials. These are given in table 1 as a separate file. "
+    }
+}
