@@ -32,6 +32,7 @@ class Elements:
 
     def get_covalent_radii_group(self, elems):
         return self.dat_df["CovalentRadius"][elems]
+    
 
     def get_molar_mass_obj(self, elem):
         return MolarMass(self.dat_df.loc[elem.title()])
@@ -63,6 +64,7 @@ class Elements:
         for sht_name in self.dfs:
             self.dfs[sht_name].to_excel(writer, sht_name)
         writer.save()
+        
 
 class MolarMass:
     def __init__(self, dat_ser: pd.Series):
