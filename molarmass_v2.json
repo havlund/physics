@@ -1,0 +1,1071 @@
+{
+    "H": {
+        "AtomNr": 1,
+        "Symbol": "H",
+        "Name": "hydrogen",
+        "MMass": 1.00798,
+        "MinMass": 1.00784,
+        "MaxMass": 1.00811,
+        "RefNr": "-"
+    },
+    "He": {
+        "AtomNr": 2,
+        "Symbol": "He",
+        "Name": "Helium",
+        "MMass": 4.002602,
+        "MinMass": 4.0026,
+        "MaxMass": 4.002604,
+        "RefNr": "1,2"
+    },
+    "Li": {
+        "AtomNr": 3,
+        "Symbol": "Li",
+        "Name": "lithium",
+        "MMass": 6.967,
+        "MinMass": 6.938,
+        "MaxMass": 6.997,
+        "RefNr": "-"
+    },
+    "Be": {
+        "AtomNr": 4,
+        "Symbol": "Be",
+        "Name": "Beryllium",
+        "MMass": 9.0121831,
+        "MinMass": 9.0121826,
+        "MaxMass": 9.0121836,
+        "RefNr": "-"
+    },
+    "B": {
+        "AtomNr": 5,
+        "Symbol": "B",
+        "Name": "boron",
+        "MMass": 10.813,
+        "MinMass": 10.806,
+        "MaxMass": 10.821,
+        "RefNr": "-"
+    },
+    "C": {
+        "AtomNr": 6,
+        "Symbol": "C",
+        "Name": "carbon",
+        "MMass": 12.0106,
+        "MinMass": 12.0096,
+        "MaxMass": 12.0116,
+        "RefNr": "-"
+    },
+    "N": {
+        "AtomNr": 7,
+        "Symbol": "N",
+        "Name": "nitrogen",
+        "MMass": 14.00685,
+        "MinMass": 14.00643,
+        "MaxMass": 14.00728,
+        "RefNr": "-"
+    },
+    "O": {
+        "AtomNr": 8,
+        "Symbol": "O",
+        "Name": "oxygen",
+        "MMass": 15.9994,
+        "MinMass": 15.99903,
+        "MaxMass": 15.99977,
+        "RefNr": "-"
+    },
+    "F": {
+        "AtomNr": 9,
+        "Symbol": "F",
+        "Name": "Fluorine",
+        "MMass": 18.998403163,
+        "MinMass": 18.998403157,
+        "MaxMass": 18.998403169,
+        "RefNr": "-"
+    },
+    "Ne": {
+        "AtomNr": 10,
+        "Symbol": "Ne",
+        "Name": "Neon",
+        "MMass": 20.1797,
+        "MinMass": 20.1791,
+        "MaxMass": 20.1803,
+        "RefNr": "1,3"
+    },
+    "Na": {
+        "AtomNr": 11,
+        "Symbol": "Na",
+        "Name": "Sodium",
+        "MMass": 22.98976928,
+        "MinMass": 22.98976926,
+        "MaxMass": 22.9897693,
+        "RefNr": "-"
+    },
+    "Mg": {
+        "AtomNr": 12,
+        "Symbol": "Mg",
+        "Name": "magnesium",
+        "MMass": 24.305,
+        "MinMass": 24.304,
+        "MaxMass": 24.307,
+        "RefNr": "-"
+    },
+    "Al": {
+        "AtomNr": 13,
+        "Symbol": "Al",
+        "Name": "Aluminium",
+        "MMass": 26.9815384,
+        "MinMass": 26.9815381,
+        "MaxMass": 26.9815387,
+        "RefNr": "-"
+    },
+    "Si": {
+        "AtomNr": 14,
+        "Symbol": "Si",
+        "Name": "silicon",
+        "MMass": 28.085,
+        "MinMass": 28.084,
+        "MaxMass": 28.086,
+        "RefNr": "-"
+    },
+    "P": {
+        "AtomNr": 15,
+        "Symbol": "P",
+        "Name": "Phosphorus",
+        "MMass": 30.973761998,
+        "MinMass": 30.973761993,
+        "MaxMass": 30.973762003,
+        "RefNr": "-"
+    },
+    "S": {
+        "AtomNr": 16,
+        "Symbol": "S",
+        "Name": "sulfur",
+        "MMass": 32.067,
+        "MinMass": 32.059,
+        "MaxMass": 32.076,
+        "RefNr": "-"
+    },
+    "Cl": {
+        "AtomNr": 17,
+        "Symbol": "Cl",
+        "Name": "chlorine",
+        "MMass": 35.451,
+        "MinMass": 35.446,
+        "MaxMass": 35.457,
+        "RefNr": "-"
+    },
+    "Ar": {
+        "AtomNr": 18,
+        "Symbol": "Ar",
+        "Name": "argon",
+        "MMass": 39.877,
+        "MinMass": 39.792,
+        "MaxMass": 39.963,
+        "RefNr": "-"
+    },
+    "K": {
+        "AtomNr": 19,
+        "Symbol": "K",
+        "Name": "Potassium",
+        "MMass": 39.0983,
+        "MinMass": 39.0982,
+        "MaxMass": 39.0984,
+        "RefNr": "-"
+    },
+    "Ca": {
+        "AtomNr": 20,
+        "Symbol": "Ca",
+        "Name": "Calcium",
+        "MMass": 40.078,
+        "MinMass": 40.074,
+        "MaxMass": 40.082,
+        "RefNr": "-"
+    },
+    "Sc": {
+        "AtomNr": 21,
+        "Symbol": "Sc",
+        "Name": "Scandium",
+        "MMass": 44.955908,
+        "MinMass": 44.955903,
+        "MaxMass": 44.955913,
+        "RefNr": "-"
+    },
+    "Ti": {
+        "AtomNr": 22,
+        "Symbol": "Ti",
+        "Name": "Titanium",
+        "MMass": 47.867,
+        "MinMass": 47.866,
+        "MaxMass": 47.868,
+        "RefNr": "-"
+    },
+    "V": {
+        "AtomNr": 23,
+        "Symbol": "V",
+        "Name": "Vanadium",
+        "MMass": 50.9415,
+        "MinMass": 50.9414,
+        "MaxMass": 50.9416,
+        "RefNr": "-"
+    },
+    "Cr": {
+        "AtomNr": 24,
+        "Symbol": "Cr",
+        "Name": "Chromium",
+        "MMass": 51.9961,
+        "MinMass": 51.9955,
+        "MaxMass": 51.9967,
+        "RefNr": "-"
+    },
+    "Mn": {
+        "AtomNr": 25,
+        "Symbol": "Mn",
+        "Name": "Manganese",
+        "MMass": 54.938043,
+        "MinMass": 54.938041,
+        "MaxMass": 54.938045,
+        "RefNr": "-"
+    },
+    "Fe": {
+        "AtomNr": 26,
+        "Symbol": "Fe",
+        "Name": "Iron",
+        "MMass": 55.845,
+        "MinMass": 55.843,
+        "MaxMass": 55.847,
+        "RefNr": "-"
+    },
+    "Co": {
+        "AtomNr": 27,
+        "Symbol": "Co",
+        "Name": "Cobalt",
+        "MMass": 58.933194,
+        "MinMass": 58.933191,
+        "MaxMass": 58.933197,
+        "RefNr": "-"
+    },
+    "Ni": {
+        "AtomNr": 28,
+        "Symbol": "Ni",
+        "Name": "Nickel",
+        "MMass": 58.6934,
+        "MinMass": 58.693,
+        "MaxMass": 58.6938,
+        "RefNr": "2"
+    },
+    "Cu": {
+        "AtomNr": 29,
+        "Symbol": "Cu",
+        "Name": "Copper",
+        "MMass": 63.546,
+        "MinMass": 63.543,
+        "MaxMass": 63.549,
+        "RefNr": "2"
+    },
+    "Zn": {
+        "AtomNr": 30,
+        "Symbol": "Zn",
+        "Name": "Zinc",
+        "MMass": 65.38,
+        "MinMass": 65.36,
+        "MaxMass": 65.4,
+        "RefNr": "2"
+    },
+    "Ga": {
+        "AtomNr": 31,
+        "Symbol": "Ga",
+        "Name": "Gallium",
+        "MMass": 69.723,
+        "MinMass": 69.722,
+        "MaxMass": 69.724,
+        "RefNr": "-"
+    },
+    "Ge": {
+        "AtomNr": 32,
+        "Symbol": "Ge",
+        "Name": "Germanium",
+        "MMass": 72.63,
+        "MinMass": 72.622,
+        "MaxMass": 72.638,
+        "RefNr": "-"
+    },
+    "As": {
+        "AtomNr": 33,
+        "Symbol": "As",
+        "Name": "Arsenic",
+        "MMass": 74.921595,
+        "MinMass": 74.921589,
+        "MaxMass": 74.921601,
+        "RefNr": "-"
+    },
+    "Se": {
+        "AtomNr": 34,
+        "Symbol": "Se",
+        "Name": "Selenium",
+        "MMass": 78.971,
+        "MinMass": 78.963,
+        "MaxMass": 78.979,
+        "RefNr": "-"
+    },
+    "Br": {
+        "AtomNr": 35,
+        "Symbol": "Br",
+        "Name": "bromine",
+        "MMass": 79.904,
+        "MinMass": 79.901,
+        "MaxMass": 79.907,
+        "RefNr": "-"
+    },
+    "Kr": {
+        "AtomNr": 36,
+        "Symbol": "Kr",
+        "Name": "Krypton",
+        "MMass": 83.798,
+        "MinMass": 83.796,
+        "MaxMass": 83.8,
+        "RefNr": "1,3"
+    },
+    "Rb": {
+        "AtomNr": 37,
+        "Symbol": "Rb",
+        "Name": "Rubidium",
+        "MMass": 85.4678,
+        "MinMass": 85.4675,
+        "MaxMass": 85.4681,
+        "RefNr": "1"
+    },
+    "Sr": {
+        "AtomNr": 38,
+        "Symbol": "Sr",
+        "Name": "Strontium",
+        "MMass": 87.62,
+        "MinMass": 87.61,
+        "MaxMass": 87.63,
+        "RefNr": "1,2"
+    },
+    "Y": {
+        "AtomNr": 39,
+        "Symbol": "Y",
+        "Name": "Yttrium",
+        "MMass": 88.90584,
+        "MinMass": 88.90583,
+        "MaxMass": 88.90585,
+        "RefNr": "-"
+    },
+    "Zr": {
+        "AtomNr": 40,
+        "Symbol": "Zr",
+        "Name": "Zirconium",
+        "MMass": 91.224,
+        "MinMass": 91.222,
+        "MaxMass": 91.226,
+        "RefNr": "1"
+    },
+    "Nb": {
+        "AtomNr": 41,
+        "Symbol": "Nb",
+        "Name": "Niobium",
+        "MMass": 92.90637,
+        "MinMass": 92.90636,
+        "MaxMass": 92.90638,
+        "RefNr": "-"
+    },
+    "Mo": {
+        "AtomNr": 42,
+        "Symbol": "Mo",
+        "Name": "Molybdenum",
+        "MMass": 95.95,
+        "MinMass": 95.94,
+        "MaxMass": 95.96,
+        "RefNr": "1"
+    },
+    "Tc": {
+        "AtomNr": 43,
+        "Symbol": "Tc",
+        "Name": "Technetium",
+        "MMass": 97.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Ru": {
+        "AtomNr": 44,
+        "Symbol": "Ru",
+        "Name": "Ruthenium",
+        "MMass": 101.07,
+        "MinMass": 101.05,
+        "MaxMass": 101.09,
+        "RefNr": "1"
+    },
+    "Rh": {
+        "AtomNr": 45,
+        "Symbol": "Rh",
+        "Name": "Rhodium",
+        "MMass": 102.90549,
+        "MinMass": 102.90547,
+        "MaxMass": 102.90551,
+        "RefNr": "-"
+    },
+    "Pd": {
+        "AtomNr": 46,
+        "Symbol": "Pd",
+        "Name": "Palladium",
+        "MMass": 106.42,
+        "MinMass": 106.41,
+        "MaxMass": 106.43,
+        "RefNr": "1"
+    },
+    "Ag": {
+        "AtomNr": 47,
+        "Symbol": "Ag",
+        "Name": "Silver",
+        "MMass": 107.8682,
+        "MinMass": 107.868,
+        "MaxMass": 107.8684,
+        "RefNr": "1"
+    },
+    "Cd": {
+        "AtomNr": 48,
+        "Symbol": "Cd",
+        "Name": "Cadmium",
+        "MMass": 112.414,
+        "MinMass": 112.41,
+        "MaxMass": 112.418,
+        "RefNr": "1"
+    },
+    "In": {
+        "AtomNr": 49,
+        "Symbol": "In",
+        "Name": "Indium",
+        "MMass": 114.818,
+        "MinMass": 114.817,
+        "MaxMass": 114.819,
+        "RefNr": "-"
+    },
+    "Sn": {
+        "AtomNr": 50,
+        "Symbol": "Sn",
+        "Name": "Tin",
+        "MMass": 118.71,
+        "MinMass": 118.703,
+        "MaxMass": 118.717,
+        "RefNr": "1"
+    },
+    "Sb": {
+        "AtomNr": 51,
+        "Symbol": "Sb",
+        "Name": "Antimony",
+        "MMass": 121.76,
+        "MinMass": 121.759,
+        "MaxMass": 121.761,
+        "RefNr": "1"
+    },
+    "Te": {
+        "AtomNr": 52,
+        "Symbol": "Te",
+        "Name": "Tellurium",
+        "MMass": 127.6,
+        "MinMass": 127.57,
+        "MaxMass": 127.63,
+        "RefNr": "1"
+    },
+    "I": {
+        "AtomNr": 53,
+        "Symbol": "I",
+        "Name": "Iodine",
+        "MMass": 126.90447,
+        "MinMass": 126.90444,
+        "MaxMass": 126.9045,
+        "RefNr": "-"
+    },
+    "Xe": {
+        "AtomNr": 54,
+        "Symbol": "Xe",
+        "Name": "Xenon",
+        "MMass": 131.293,
+        "MinMass": 131.287,
+        "MaxMass": 131.299,
+        "RefNr": "1,3"
+    },
+    "Cs": {
+        "AtomNr": 55,
+        "Symbol": "Cs",
+        "Name": "Caesium",
+        "MMass": 132.90545196,
+        "MinMass": 132.9054519,
+        "MaxMass": 132.90545202,
+        "RefNr": "-"
+    },
+    "Ba": {
+        "AtomNr": 56,
+        "Symbol": "Ba",
+        "Name": "Barium",
+        "MMass": 137.327,
+        "MinMass": 137.32,
+        "MaxMass": 137.334,
+        "RefNr": "-"
+    },
+    "La": {
+        "AtomNr": 57,
+        "Symbol": "La",
+        "Name": "Lanthanum",
+        "MMass": 138.90547,
+        "MinMass": 138.9054,
+        "MaxMass": 138.90554,
+        "RefNr": "1"
+    },
+    "Ce": {
+        "AtomNr": 58,
+        "Symbol": "Ce",
+        "Name": "Cerium",
+        "MMass": 140.116,
+        "MinMass": 140.115,
+        "MaxMass": 140.117,
+        "RefNr": "1"
+    },
+    "Pr": {
+        "AtomNr": 59,
+        "Symbol": "Pr",
+        "Name": "Praseodymium",
+        "MMass": 140.90766,
+        "MinMass": 140.90765,
+        "MaxMass": 140.90767,
+        "RefNr": "-"
+    },
+    "Nd": {
+        "AtomNr": 60,
+        "Symbol": "Nd",
+        "Name": "Neodymium",
+        "MMass": 144.242,
+        "MinMass": 144.239,
+        "MaxMass": 144.245,
+        "RefNr": "1"
+    },
+    "Pm": {
+        "AtomNr": 61,
+        "Symbol": "Pm",
+        "Name": "Promethium",
+        "MMass": 145.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "-"
+    },
+    "Sm": {
+        "AtomNr": 62,
+        "Symbol": "Sm",
+        "Name": "Samarium",
+        "MMass": 150.36,
+        "MinMass": 150.34,
+        "MaxMass": 150.38,
+        "RefNr": "1"
+    },
+    "Eu": {
+        "AtomNr": 63,
+        "Symbol": "Eu",
+        "Name": "Europium",
+        "MMass": 151.964,
+        "MinMass": 151.963,
+        "MaxMass": 151.965,
+        "RefNr": "1"
+    },
+    "Gd": {
+        "AtomNr": 64,
+        "Symbol": "Gd",
+        "Name": "Gadolinium",
+        "MMass": 157.25,
+        "MinMass": 157.22,
+        "MaxMass": 157.28,
+        "RefNr": "1"
+    },
+    "Tb": {
+        "AtomNr": 65,
+        "Symbol": "Tb",
+        "Name": "Terbium",
+        "MMass": 158.925354,
+        "MinMass": 158.925346,
+        "MaxMass": 158.925362,
+        "RefNr": "-"
+    },
+    "Dy": {
+        "AtomNr": 66,
+        "Symbol": "Dy",
+        "Name": "Dysprosium",
+        "MMass": 162.5,
+        "MinMass": 162.499,
+        "MaxMass": 162.501,
+        "RefNr": "1"
+    },
+    "Ho": {
+        "AtomNr": 67,
+        "Symbol": "Ho",
+        "Name": "Holmium",
+        "MMass": 164.930328,
+        "MinMass": 164.930321,
+        "MaxMass": 164.930335,
+        "RefNr": "-"
+    },
+    "Er": {
+        "AtomNr": 68,
+        "Symbol": "Er",
+        "Name": "Erbium",
+        "MMass": 167.259,
+        "MinMass": 167.256,
+        "MaxMass": 167.262,
+        "RefNr": "1"
+    },
+    "Tm": {
+        "AtomNr": 69,
+        "Symbol": "Tm",
+        "Name": "Thulium",
+        "MMass": 168.934218,
+        "MinMass": 168.934212,
+        "MaxMass": 168.934224,
+        "RefNr": "-"
+    },
+    "Yb": {
+        "AtomNr": 70,
+        "Symbol": "Yb",
+        "Name": "Ytterbium",
+        "MMass": 173.045,
+        "MinMass": 173.035,
+        "MaxMass": 173.055,
+        "RefNr": "1"
+    },
+    "Lu": {
+        "AtomNr": 71,
+        "Symbol": "Lu",
+        "Name": "Lutetium",
+        "MMass": 174.9668,
+        "MinMass": 174.9667,
+        "MaxMass": 174.9669,
+        "RefNr": "1"
+    },
+    "Hf": {
+        "AtomNr": 72,
+        "Symbol": "Hf",
+        "Name": "Hafnium",
+        "MMass": 178.49,
+        "MinMass": 178.47,
+        "MaxMass": 178.51,
+        "RefNr": "-"
+    },
+    "Ta": {
+        "AtomNr": 73,
+        "Symbol": "Ta",
+        "Name": "Tantalum",
+        "MMass": 180.94788,
+        "MinMass": 180.94786,
+        "MaxMass": 180.9479,
+        "RefNr": "-"
+    },
+    "W": {
+        "AtomNr": 74,
+        "Symbol": "W",
+        "Name": "Tungsten",
+        "MMass": 183.84,
+        "MinMass": 183.83,
+        "MaxMass": 183.85,
+        "RefNr": "-"
+    },
+    "Re": {
+        "AtomNr": 75,
+        "Symbol": "Re",
+        "Name": "Rhenium",
+        "MMass": 186.207,
+        "MinMass": 186.206,
+        "MaxMass": 186.208,
+        "RefNr": "-"
+    },
+    "Os": {
+        "AtomNr": 76,
+        "Symbol": "Os",
+        "Name": "Osmium",
+        "MMass": 190.23,
+        "MinMass": 190.2,
+        "MaxMass": 190.26,
+        "RefNr": "1"
+    },
+    "Ir": {
+        "AtomNr": 77,
+        "Symbol": "Ir",
+        "Name": "Iridium",
+        "MMass": 192.217,
+        "MinMass": 192.215,
+        "MaxMass": 192.219,
+        "RefNr": "-"
+    },
+    "Pt": {
+        "AtomNr": 78,
+        "Symbol": "Pt",
+        "Name": "Platinum",
+        "MMass": 195.084,
+        "MinMass": 195.075,
+        "MaxMass": 195.093,
+        "RefNr": "-"
+    },
+    "Au": {
+        "AtomNr": 79,
+        "Symbol": "Au",
+        "Name": "Gold",
+        "MMass": 196.96657,
+        "MinMass": 196.966566,
+        "MaxMass": 196.966574,
+        "RefNr": "-"
+    },
+    "Hg": {
+        "AtomNr": 80,
+        "Symbol": "Hg",
+        "Name": "Mercury",
+        "MMass": 200.592,
+        "MinMass": 200.589,
+        "MaxMass": 200.595,
+        "RefNr": "-"
+    },
+    "Tl": {
+        "AtomNr": 81,
+        "Symbol": "Tl",
+        "Name": "thallium",
+        "MMass": 204.383,
+        "MinMass": 204.382,
+        "MaxMass": 204.385,
+        "RefNr": "-"
+    },
+    "Pb": {
+        "AtomNr": 82,
+        "Symbol": "Pb",
+        "Name": "Lead",
+        "MMass": 207.2,
+        "MinMass": 207.1,
+        "MaxMass": 207.3,
+        "RefNr": "1,2"
+    },
+    "Bi": {
+        "AtomNr": 83,
+        "Symbol": "Bi",
+        "Name": "Bismuth",
+        "MMass": 208.9804,
+        "MinMass": 208.98039,
+        "MaxMass": 208.98041,
+        "RefNr": "-"
+    },
+    "Po": {
+        "AtomNr": 84,
+        "Symbol": "Po",
+        "Name": "Polonium",
+        "MMass": 209.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "At": {
+        "AtomNr": 85,
+        "Symbol": "At",
+        "Name": "Astatine",
+        "MMass": 210.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Rn": {
+        "AtomNr": 86,
+        "Symbol": "Rn",
+        "Name": "Radon",
+        "MMass": 222.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Fr": {
+        "AtomNr": 87,
+        "Symbol": "Fr",
+        "Name": "Francium",
+        "MMass": 223.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Ra": {
+        "AtomNr": 88,
+        "Symbol": "Ra",
+        "Name": "Radium",
+        "MMass": 226.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Ac": {
+        "AtomNr": 89,
+        "Symbol": "Ac",
+        "Name": "Actinium",
+        "MMass": 227.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Th": {
+        "AtomNr": 90,
+        "Symbol": "Th",
+        "Name": "Thorium",
+        "MMass": 232.0377,
+        "MinMass": 232.0373,
+        "MaxMass": 232.0381,
+        "RefNr": "1,4"
+    },
+    "Pa": {
+        "AtomNr": 91,
+        "Symbol": "Pa",
+        "Name": "Protactinium",
+        "MMass": 231.03588,
+        "MinMass": 231.03587,
+        "MaxMass": 231.03589,
+        "RefNr": "4"
+    },
+    "U": {
+        "AtomNr": 92,
+        "Symbol": "U",
+        "Name": "Uranium",
+        "MMass": 238.02891,
+        "MinMass": 238.02888,
+        "MaxMass": 238.02894,
+        "RefNr": "1,3,4"
+    },
+    "Np": {
+        "AtomNr": 93,
+        "Symbol": "Np",
+        "Name": "Neptunium",
+        "MMass": 237.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Pu": {
+        "AtomNr": 94,
+        "Symbol": "Pu",
+        "Name": "Plutonium",
+        "MMass": 244.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Am": {
+        "AtomNr": 95,
+        "Symbol": "Am",
+        "Name": "Americium",
+        "MMass": 243.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Cm": {
+        "AtomNr": 96,
+        "Symbol": "Cm",
+        "Name": "Curium",
+        "MMass": 247.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Bk": {
+        "AtomNr": 97,
+        "Symbol": "Bk",
+        "Name": "Berkelium",
+        "MMass": 247.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Cf": {
+        "AtomNr": 98,
+        "Symbol": "Cf",
+        "Name": "Californium",
+        "MMass": 251.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Es": {
+        "AtomNr": 99,
+        "Symbol": "Es",
+        "Name": "Einsteinium",
+        "MMass": 252.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Fm": {
+        "AtomNr": 100,
+        "Symbol": "Fm",
+        "Name": "Fermium",
+        "MMass": 257.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Md": {
+        "AtomNr": 101,
+        "Symbol": "Md",
+        "Name": "Mendelevium",
+        "MMass": 258.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "No": {
+        "AtomNr": 102,
+        "Symbol": "No",
+        "Name": "Nobelium",
+        "MMass": 259.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Lr": {
+        "AtomNr": 103,
+        "Symbol": "Lr",
+        "Name": "Lawrencium",
+        "MMass": 262.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Rf": {
+        "AtomNr": 104,
+        "Symbol": "Rf",
+        "Name": "Rutherfordium",
+        "MMass": 267.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Db": {
+        "AtomNr": 105,
+        "Symbol": "Db",
+        "Name": "Dubnium",
+        "MMass": 270.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Sg": {
+        "AtomNr": 106,
+        "Symbol": "Sg",
+        "Name": "Seaborgium",
+        "MMass": 269.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Bh": {
+        "AtomNr": 107,
+        "Symbol": "Bh",
+        "Name": "Bohrium",
+        "MMass": 270.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Hs": {
+        "AtomNr": 108,
+        "Symbol": "Hs",
+        "Name": "Hassium",
+        "MMass": 270.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Mt": {
+        "AtomNr": 109,
+        "Symbol": "Mt",
+        "Name": "Meitnerium",
+        "MMass": 278.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Ds": {
+        "AtomNr": 110,
+        "Symbol": "Ds",
+        "Name": "Darmstadtium",
+        "MMass": 281.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Rg": {
+        "AtomNr": 111,
+        "Symbol": "Rg",
+        "Name": "Roentgenium",
+        "MMass": 281.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Cn": {
+        "AtomNr": 112,
+        "Symbol": "Cn",
+        "Name": "Copernicium",
+        "MMass": 285.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Nh": {
+        "AtomNr": 113,
+        "Symbol": "Nh",
+        "Name": "Nihonium",
+        "MMass": 286.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Fl": {
+        "AtomNr": 114,
+        "Symbol": "Fl",
+        "Name": "Flerovium",
+        "MMass": 289.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Mc": {
+        "AtomNr": 115,
+        "Symbol": "Mc",
+        "Name": "Moscovium",
+        "MMass": 289.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Lv": {
+        "AtomNr": 116,
+        "Symbol": "Lv",
+        "Name": "Livermorium",
+        "MMass": 293.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Ts": {
+        "AtomNr": 117,
+        "Symbol": "Ts",
+        "Name": "Tennessine",
+        "MMass": 293.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "Og": {
+        "AtomNr": 118,
+        "Symbol": "Og",
+        "Name": "Oganesson",
+        "MMass": 294.0,
+        "MinMass": NaN,
+        "MaxMass": NaN,
+        "RefNr": "4"
+    },
+    "References": {
+        "1": " Geological specimens are known in which the element has an isotopic composition outside the limits for normal material. The difference between the atomic weight of the element in such specimens and that given in the Table may exceed the stated uncertainty.\n",
+        "2": " Range in isotopic composition of normal terrestrial material prevents a more precise value being given; the tabulated value should be applicable to any normal material.\n",
+        "3": " Modified isotopic compositions may be found in commercially available material because it has been subject to an undisclosed or inadvertant isotopic fractionation. Substantial deviations in atomic weight of the element from that given in the Table can occur.\n",
+        "4": " Radioactive element has no stable nuclides. The value enclosed in brackets, indicates the mass number of the longest-lived isotope of the element. However three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and for these an atomic weight is tabulated.\n",
+        "5": " The standard atomic weights of twelve elements having two or more stable isotopes have variability of atomic-weight values in natural terrestrial materials. These are given in table 1 as a separate file."
+    }
+}
