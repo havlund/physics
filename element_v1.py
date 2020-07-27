@@ -39,7 +39,7 @@ class MMelem:
 
 class MolarMass:
     def __init__(self):
-        self.json = "molarmass_v2.json"
+        self.json = "molarmass.json"
         with open(self.json, "r") as f:
             self.DB = json.load(f)
 
